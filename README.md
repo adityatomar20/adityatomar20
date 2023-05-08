@@ -22,4 +22,9 @@
 - ⚡ Passionate about eveything data and my football team FC Barcelona 
 - 💬 Ask me about: How data works in the sports industry
 - 📫 How to reach me: : https://www.linkedin.com/in/utsav-ajay/
-- ⚡ Fun fact: Cotton Candy was invented by a dentist
+- ⚡ Fun fact: Cotton Candy was invented by a dentist.
+
+
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityatomar20&show_icons=true&theme=radical)
+
+- It ain't much but it's honest work.
