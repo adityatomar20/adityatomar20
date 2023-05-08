@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on deep learning projects in NLP
 - ⚡ Passionate about eveything data and my football team FC Barcelona 
 - 💬 Ask me about: How data works in the sports industry
-- 📫 How to reach me: : https://www.linkedin.com/in/utsav-ajay/
+- 📫 How to reach me: : https://www.linkedin.com/in/aditya-tomar-/
 - ⚡ Fun fact: Cotton Candy was invented by a dentist.
 
 
