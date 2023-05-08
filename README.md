@@ -22,4 +22,4 @@
 - ⚡ Passionate about eveything data and my football team FC Barcelona 
 - 💬 Ask me about: How data works in the sports industry
 - 📫 How to reach me: : https://www.linkedin.com/in/utsav-ajay/
-- ⚡ Fun fact: Cotton Candy was invested by a dentist
+- ⚡ Fun fact: Cotton Candy was invented by a dentist
