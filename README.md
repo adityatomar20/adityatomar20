@@ -15,7 +15,7 @@
 </h1>
 
 
-- 🔭 I’m currently a student in the Carlson MSBA program, graduating in May 2023 
+- 🔭 Recently graduated from the Carlson School of Management, University of Minnesota with an MS in Business Analytics 
 - 🌱 Currently learning all things data science and analytics
 - 👯 I’m looking to collaborate on deep learning projects in NLP
 - ⚡ Passionate about eveything data and my football team FC Barcelona 
