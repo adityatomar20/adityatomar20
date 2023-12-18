@@ -18,8 +18,8 @@
 - 🔭 Recently graduated from the Carlson School of Management, University of Minnesota with an MS in Business Analytics 
 - 🌱 Currently learning all things data science and analytics
 - 👯 I’m looking to collaborate on deep learning projects in NLP
-- ⚡ Passionate about eveything data and my football team FC Barcelona 
-- 💬 Ask me about: How data works in the sports industry
+- ⚡ Passionate about everything data and my football team FC Barcelona 
+- 💬 Ask me about How data works in the sports industry
 - 📫 How to reach me: : https://www.linkedin.com/in/aditya-tomar-/
 - ⚡ Fun fact: Cotton Candy was invented by a dentist.
 
@@ -27,4 +27,3 @@
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityatomar20&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatomar20&layout=compact)
 
-- It ain't much but it's honest work :P
