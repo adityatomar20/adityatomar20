@@ -13,12 +13,10 @@
 </h1>
 
 
-- 🔭 Recently graduated from the Carlson School of Management, University of Minnesota with an MS in Business Analytics 
-- 👯 Passionate about everything data and my football team FC Barcelona 
 - ⚡ Looking to learn how data works in the gaming and entertainment industry
-- 💬 Ask me about How data works in the sports industry
+- 💬 Ask me about how data-driven decisions are redefining success metrics in the sports industry
 - 📫 How to reach me: https://www.linkedin.com/in/aditya-tomar-/
-- ⚡ Fun fact: Fredric Baur, the inventor of the Pringles can, is buried in one
+- ⚡ Fun fact: Fredric Baur, who invented the Pringles can, was buried in one
 
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityatomar20&show_icons=true&theme=radical)
